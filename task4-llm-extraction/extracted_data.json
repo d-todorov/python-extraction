@@ -1,0 +1,177 @@
+{
+  "llm_extractions": [
+    {
+      "source_document": "financial_table.txt",
+      "extraction_method": "mock",
+      "model": "mock",
+      "extracted_data": {
+        "company_name": "TechStart Industries Inc.",
+        "document_date": "2023-12-31",
+        "total_amount": 369501.25,
+        "currency": "EUR",
+        "category": "income",
+        "line_items": [
+          {
+            "description": "Product Sales",
+            "amount": 245680.5
+          },
+          {
+            "description": "Service Revenue",
+            "amount": 89320.75
+          },
+          {
+            "description": "Licensing Fees",
+            "amount": 34500.0
+          }
+        ],
+        "additional_metrics": {
+          "total_revenue": 369501.25,
+          "total_expenses": 311951.25,
+          "net_profit": 57550.0,
+          "quarter": "Q4 2023"
+        }
+      },
+      "validation": {
+        "is_valid": true,
+        "errors": []
+      },
+      "extracted_at": "2025-11-27T11:07:56.994499"
+    },
+    {
+      "source_document": "invoice.txt",
+      "extraction_method": "mock",
+      "model": "mock",
+      "extracted_data": {
+        "company_name": "Acme Corporation Ltd.",
+        "document_date": "2024-01-15",
+        "total_amount": 7692.0,
+        "currency": "USD",
+        "category": "expense",
+        "line_items": [
+          {
+            "description": "Software Development Services",
+            "amount": 3400.0
+          },
+          {
+            "description": "Cloud Infrastructure Setup",
+            "amount": 1250.0
+          },
+          {
+            "description": "Technical Consulting",
+            "amount": 960.0
+          },
+          {
+            "description": "Database Migration Services",
+            "amount": 800.0
+          }
+        ],
+        "additional_metrics": {
+          "subtotal": 6410.0,
+          "tax": 1282.0,
+          "tax_rate": 0.2
+        }
+      },
+      "validation": {
+        "is_valid": true,
+        "errors": []
+      },
+      "extracted_at": "2025-11-27T11:07:57.001495"
+    },
+    {
+      "source_document": "report_excerpt.txt",
+      "extraction_method": "mock",
+      "model": "mock",
+      "extracted_data": {
+        "company_name": "Bulgarian Energy Solutions JSC",
+        "document_date": "2024-03-31",
+        "total_amount": 12500000.0,
+        "currency": "BGN",
+        "category": "income",
+        "line_items": null,
+        "additional_metrics": {
+          "total_revenue": 12500000,
+          "operating_expenses": 8300000,
+          "personnel_costs": 4200000,
+          "capital_expenditures": 2100000,
+          "net_income": 3100000,
+          "gross_profit_margin": 0.336,
+          "net_profit_margin": 0.248,
+          "total_assets": 45800000,
+          "total_liabilities": 22400000,
+          "shareholders_equity": 23400000,
+          "cash_flow_operations": 5700000
+        }
+      },
+      "validation": {
+        "is_valid": true,
+        "errors": []
+      },
+      "extracted_at": "2025-11-27T11:07:57.005129"
+    }
+  ],
+  "traditional_extractions": [
+    {
+      "source_document": "financial_table.txt",
+      "extraction_method": "traditional",
+      "model": "regex",
+      "extracted_data": {
+        "company_name": "Company: BusinessGroup JSC",
+        "document_date": null,
+        "total_amount": 2024.0,
+        "currency": "EUR",
+        "category": "income",
+        "line_items": null,
+        "additional_metrics": {}
+      },
+      "validation": {
+        "is_valid": false,
+        "errors": [
+          "Missing required field: document_date",
+          "Invalid date: None"
+        ]
+      }
+    },
+    {
+      "source_document": "invoice.txt",
+      "extraction_method": "traditional",
+      "model": "regex",
+      "extracted_data": {
+        "company_name": "Company: TechnoSoft Ltd",
+        "document_date": null,
+        "total_amount": 4930.5,
+        "currency": "EUR",
+        "category": "expense",
+        "line_items": null,
+        "additional_metrics": {}
+      },
+      "validation": {
+        "is_valid": false,
+        "errors": [
+          "Missing required field: document_date",
+          "Invalid date: None"
+        ]
+      }
+    },
+    {
+      "source_document": "report_excerpt.txt",
+      "extraction_method": "traditional",
+      "model": "regex",
+      "extracted_data": {
+        "company_name": "Company: InvestCapital LLC",
+        "document_date": null,
+        "total_amount": 2024.0,
+        "currency": "EUR",
+        "category": "income",
+        "line_items": null,
+        "additional_metrics": {}
+      },
+      "validation": {
+        "is_valid": false,
+        "errors": [
+          "Missing required field: document_date",
+          "Invalid date: None"
+        ]
+      }
+    }
+  ]
+}

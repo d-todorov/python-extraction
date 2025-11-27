@@ -1,0 +1,640 @@
+2025-11-25 20:11:11,156 - INFO - ================================================================================
+2025-11-25 20:11:11,157 - INFO - Document Scraper Started
+2025-11-25 20:11:11,157 - INFO - ================================================================================
+2025-11-25 20:11:11,157 - INFO - Loaded 3 URLs to scrape
+2025-11-25 20:11:11,157 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-25 20:11:11,157 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-25 20:11:11,158 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-25 20:11:11,721 - INFO - Found 0 PDF links
+2025-11-25 20:11:11,722 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 20:11:13,723 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-25 20:11:13,724 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-25 20:11:14,178 - INFO - Found 0 PDF links
+2025-11-25 20:11:14,179 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 20:11:16,180 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-25 20:11:16,180 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-25 20:11:16,552 - ERROR - Error fetching URL https://www.minfin.bg/bg/1394: 403 Client Error: Forbidden for url: https://www.minfin.bg/bg/1394
+2025-11-25 20:11:16,553 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-25 20:11:16,554 - INFO - Successfully saved results to extracted_documents.json
+2025-11-25 20:11:16,555 - INFO - ================================================================================
+2025-11-25 20:11:16,555 - INFO - Scraping completed. Found 0 documents.
+2025-11-25 20:11:16,555 - INFO - ================================================================================
+2025-11-25 20:29:03,265 - INFO - ================================================================================
+2025-11-25 20:29:03,265 - INFO - Document Scraper Started
+2025-11-25 20:29:03,265 - INFO - ================================================================================
+2025-11-25 20:29:03,267 - INFO - Loaded 3 URLs to scrape
+2025-11-25 20:29:03,267 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-25 20:29:03,267 - INFO - Processing URL 1/3: https://www.who.int/publications
+2025-11-25 20:29:03,267 - INFO - Scraping URL: https://www.who.int/publications
+2025-11-25 20:29:04,217 - INFO - Found 0 PDF links on main page
+2025-11-25 20:29:04,218 - INFO - No PDFs on main page, crawling subpages...
+2025-11-25 20:29:04,219 - INFO - Checking subpage: https://www.who.int/mega-menu/health-topics/resources
+2025-11-25 20:29:06,514 - INFO - Checking subpage: https://www.who.int/mega-menu/health-topics/resources/fact-sheets
+2025-11-25 20:29:08,907 - INFO - Checking subpage: https://www.who.int/mega-menu/health-topics/resources/facts-in-pictures
+2025-11-25 20:29:11,207 - INFO - Checking subpage: https://www.who.int/mega-menu/health-topics/resources/multimedia
+2025-11-25 20:29:13,666 - INFO - Checking subpage: https://www.who.int/mega-menu/health-topics/resources/podcasts
+2025-11-25 20:29:15,945 - INFO - Found 0 PDF links after crawling subpages
+2025-11-25 20:29:15,946 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 20:29:17,946 - INFO - Processing URL 2/3: https://www.un.org/en/documents
+2025-11-25 20:29:17,947 - INFO - Scraping URL: https://www.un.org/en/documents
+2025-11-25 20:29:18,992 - INFO - Found 2 PDF links on main page
+2025-11-25 20:29:18,993 - INFO - Processing PDF 1/2: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
+2025-11-25 20:29:19,251 - INFO - Downloaded PDF: un_system_chart.pdf
+2025-11-25 20:29:19,476 - INFO - Extracted 7493 characters from PDF
+2025-11-25 20:29:21,477 - INFO - Processing PDF 2/2: https://www.un.org/sites/un2.un.org/files/un_card_2025_e.pdf
+2025-11-25 20:29:22,058 - INFO - Downloaded PDF: un_card_2025_e.pdf
+2025-11-25 20:29:22,118 - INFO - Extracted 903 characters from PDF
+2025-11-25 20:29:22,118 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 20:29:24,120 - INFO - Processing URL 3/3: https://www.ecb.europa.eu/pub/html/index.en.html
+2025-11-25 20:29:24,121 - INFO - Scraping URL: https://www.ecb.europa.eu/pub/html/index.en.html
+2025-11-25 20:29:24,636 - INFO - Found 2 PDF links on main page
+2025-11-25 20:29:24,636 - INFO - Processing PDF 1/2: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3156~b21336a382.en.pdf?3ab4e3c96aed737379ca30a25921d7ab
+2025-11-25 20:29:26,550 - INFO - Downloaded PDF: ecb.wp3156~b21336a382.en.pdf
+2025-11-25 20:31:35,268 - INFO - Extracted 109289 characters from PDF
+2025-11-25 20:31:37,269 - INFO - Processing PDF 2/2: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3155~1fb9243579.en.pdf?5e223891ee06772fdb9a9ba9ad13cffd
+2025-11-25 20:31:39,875 - INFO - Downloaded PDF: ecb.wp3155~1fb9243579.en.pdf
+2025-11-25 20:31:40,660 - INFO - Extracted 76734 characters from PDF
+2025-11-25 20:31:40,661 - INFO - Saving 4 documents to extracted_documents.json
+2025-11-25 20:31:40,667 - INFO - Successfully saved results to extracted_documents.json
+2025-11-25 20:31:40,668 - INFO - ================================================================================
+2025-11-25 20:31:40,668 - INFO - Scraping completed. Found 4 documents.
+2025-11-25 20:31:40,668 - INFO - ================================================================================
+2025-11-25 20:44:11,380 - INFO - ================================================================================
+2025-11-25 20:44:11,381 - INFO - Document Scraper Started
+2025-11-25 20:44:11,381 - INFO - ================================================================================
+2025-11-25 20:44:11,381 - INFO - Loaded 3 URLs to scrape
+2025-11-25 20:44:11,382 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-25 20:44:11,382 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-25 20:44:11,382 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-25 20:44:11,949 - INFO - Found 0 PDF links on main page
+2025-11-25 20:44:11,950 - INFO - No PDFs on main page, crawling subpages...
+2025-11-25 20:44:11,951 - INFO - Found 0 PDF links after crawling subpages
+2025-11-25 20:44:11,951 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 20:44:13,953 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-25 20:44:13,953 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-25 20:44:14,396 - INFO - Found 0 PDF links on main page
+2025-11-25 20:44:14,396 - INFO - No PDFs on main page, crawling subpages...
+2025-11-25 20:44:14,400 - INFO - Found 0 PDF links after crawling subpages
+2025-11-25 20:44:14,401 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 20:44:16,402 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-25 20:44:16,402 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-25 20:44:16,743 - ERROR - Error fetching URL https://www.minfin.bg/bg/1394: 403 Client Error: Forbidden for url: https://www.minfin.bg/bg/1394
+2025-11-25 20:44:16,744 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-25 20:44:16,745 - INFO - Successfully saved results to extracted_documents.json
+2025-11-25 20:44:16,745 - INFO - ================================================================================
+2025-11-25 20:44:16,745 - INFO - Scraping completed. Found 0 documents.
+2025-11-25 20:44:16,746 - INFO - ================================================================================
+2025-11-25 21:00:54,408 - INFO - ================================================================================
+2025-11-25 21:00:54,408 - INFO - Document Scraper Started
+2025-11-25 21:00:54,409 - INFO - ================================================================================
+2025-11-25 21:00:54,409 - INFO - Loaded 3 URLs to scrape
+2025-11-25 21:00:54,409 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-25 21:00:54,411 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-25 21:00:54,411 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-25 21:00:54,981 - INFO - Found 0 PDF links on main page
+2025-11-25 21:00:54,981 - INFO - No PDFs on main page, crawling subpages...
+2025-11-25 21:00:54,982 - INFO - Found 0 PDF links after crawling subpages
+2025-11-25 21:00:54,983 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 21:00:56,983 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-25 21:00:56,984 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-25 21:00:57,438 - INFO - Found 0 PDF links on main page
+2025-11-25 21:00:57,438 - INFO - No PDFs on main page, crawling subpages...
+2025-11-25 21:00:57,441 - INFO - Found 0 PDF links after crawling subpages
+2025-11-25 21:00:57,442 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-25 21:00:59,444 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-25 21:00:59,444 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-25 21:00:59,827 - ERROR - Error fetching URL https://www.minfin.bg/bg/1394: 403 Client Error: Forbidden for url: https://www.minfin.bg/bg/1394
+2025-11-25 21:00:59,830 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-25 21:00:59,830 - INFO - Successfully saved results to extracted_documents.json
+2025-11-25 21:00:59,831 - INFO - ================================================================================
+2025-11-25 21:00:59,831 - INFO - Scraping completed. Found 0 documents.
+2025-11-25 21:00:59,831 - INFO - ================================================================================
+2025-11-26 09:24:03,535 - INFO - ================================================================================
+2025-11-26 09:24:03,536 - INFO - Document Scraper Started
+2025-11-26 09:24:03,536 - INFO - ================================================================================
+2025-11-26 09:24:03,545 - INFO - Loaded 3 URLs to scrape
+2025-11-26 09:24:03,545 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 09:24:03,546 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-26 09:24:03,546 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 09:24:04,109 - INFO - Found 0 PDF links on main page
+2025-11-26 09:24:04,109 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:24:04,111 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 09:24:06,325 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 09:24:08,532 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 09:24:10,615 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 09:24:12,696 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 09:24:14,814 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:24:14,815 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:24:16,816 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-26 09:24:16,816 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 09:24:17,270 - INFO - Found 0 PDF links on main page
+2025-11-26 09:24:17,270 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:24:17,273 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 09:24:19,735 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-26 09:24:22,090 - INFO - Checking subpage: https://www.investor.bg/news/news/last/
+2025-11-26 09:24:24,875 - INFO - Checking subpage: https://www.investor.bg/trades/
+2025-11-26 09:24:27,642 - INFO - Checking subpage: https://www.investor.bg/indexes/
+2025-11-26 09:24:30,485 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:24:30,486 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:24:32,488 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-26 09:24:32,489 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 09:24:32,918 - ERROR - Error fetching URL https://www.minfin.bg/bg/1394: 403 Client Error: Forbidden for url: https://www.minfin.bg/bg/1394
+2025-11-26 09:24:32,921 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-26 09:24:32,924 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 09:24:32,924 - INFO - ================================================================================
+2025-11-26 09:24:32,925 - INFO - Scraping completed. Found 0 documents.
+2025-11-26 09:24:32,926 - INFO - ================================================================================
+2025-11-26 09:36:59,205 - INFO - ================================================================================
+2025-11-26 09:36:59,206 - INFO - Document Scraper Started
+2025-11-26 09:36:59,206 - INFO - ================================================================================
+2025-11-26 09:36:59,206 - INFO - Loaded 3 URLs to scrape
+2025-11-26 09:36:59,207 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 09:36:59,207 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-26 09:36:59,207 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 09:36:59,798 - INFO - Found 0 PDF links on main page
+2025-11-26 09:36:59,799 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:36:59,800 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 09:37:01,979 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 09:37:04,203 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 09:37:06,270 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 09:37:08,343 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 09:37:10,388 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:37:10,388 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:37:12,389 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-26 09:37:12,390 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 09:37:12,788 - INFO - Found 0 PDF links on main page
+2025-11-26 09:37:12,788 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:37:12,790 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 09:37:15,277 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-26 09:37:17,671 - INFO - Checking subpage: https://www.investor.bg/news/news/last/
+2025-11-26 09:37:20,495 - INFO - Checking subpage: https://www.investor.bg/trades/
+2025-11-26 09:37:23,272 - INFO - Checking subpage: https://www.investor.bg/indexes/
+2025-11-26 09:37:26,027 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:37:26,029 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:37:28,030 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-26 09:37:28,030 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 09:37:28,417 - WARNING - 403 Forbidden error for https://www.minfin.bg/bg/1394. Attempting Selenium fallback...
+2025-11-26 09:37:28,424 - INFO - Using Selenium to scrape: https://www.minfin.bg/bg/1394
+2025-11-26 09:37:28,425 - INFO - Initializing undetected Chrome driver...
+2025-11-26 09:37:32,371 - INFO - patching driver executable C:\Users\karno\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-26 09:37:40,642 - INFO - Found 0 PDF links with Selenium
+2025-11-26 09:37:40,643 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-26 09:37:40,643 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-26 09:37:40,644 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-26 09:37:40,645 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 09:37:40,645 - INFO - ================================================================================
+2025-11-26 09:37:40,645 - INFO - Scraping completed. Found 0 documents.
+2025-11-26 09:37:40,645 - INFO - ================================================================================
+2025-11-26 09:39:26,051 - INFO - ================================================================================
+2025-11-26 09:39:26,052 - INFO - Document Scraper Started
+2025-11-26 09:39:26,052 - INFO - ================================================================================
+2025-11-26 09:39:26,052 - INFO - Loaded 3 URLs to scrape
+2025-11-26 09:39:26,053 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 09:39:26,053 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-26 09:39:26,053 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 09:39:26,562 - INFO - Found 0 PDF links on main page
+2025-11-26 09:39:26,563 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:39:26,564 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 09:39:28,720 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 09:39:30,884 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 09:39:32,946 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 09:39:34,986 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 09:39:37,031 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:39:37,031 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:39:39,032 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-26 09:39:39,032 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 09:39:39,522 - INFO - Found 0 PDF links on main page
+2025-11-26 09:39:39,522 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:39:39,525 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 09:39:41,955 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-26 09:39:44,356 - INFO - Checking subpage: https://www.investor.bg/news/news/last/
+2025-11-26 09:39:47,167 - INFO - Checking subpage: https://www.investor.bg/trades/
+2025-11-26 09:39:49,921 - INFO - Checking subpage: https://www.investor.bg/indexes/
+2025-11-26 09:39:52,658 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:39:52,660 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:39:54,661 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-26 09:39:54,661 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 09:39:54,989 - WARNING - 403 Forbidden error for https://www.minfin.bg/bg/1394. Attempting Selenium fallback...
+2025-11-26 09:39:54,989 - INFO - Using Selenium to scrape: https://www.minfin.bg/bg/1394
+2025-11-26 09:39:54,989 - INFO - Initializing undetected Chrome driver...
+2025-11-26 09:39:58,644 - INFO - patching driver executable C:\Users\karno\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-26 09:40:05,692 - INFO - Found 0 PDF links with Selenium
+2025-11-26 09:40:05,692 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-26 09:40:05,692 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-26 09:40:05,693 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-26 09:40:05,694 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 09:40:05,694 - INFO - ================================================================================
+2025-11-26 09:40:05,694 - INFO - Scraping completed. Found 0 documents.
+2025-11-26 09:40:05,694 - INFO - ================================================================================
+2025-11-26 09:40:05,901 - INFO - Selenium driver closed
+2025-11-26 09:45:08,324 - INFO - ================================================================================
+2025-11-26 09:45:08,324 - INFO - Document Scraper Started
+2025-11-26 09:45:08,324 - INFO - ================================================================================
+2025-11-26 09:45:08,325 - INFO - Loaded 3 URLs to scrape
+2025-11-26 09:45:08,325 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 09:45:08,325 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-26 09:45:08,325 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 09:45:08,883 - INFO - Found 0 PDF links on main page
+2025-11-26 09:45:08,883 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:45:08,884 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 09:45:11,052 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 09:45:13,243 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 09:45:15,293 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 09:45:17,339 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 09:45:19,410 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:45:19,410 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:45:21,411 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-26 09:45:21,411 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 09:45:21,852 - INFO - Found 0 PDF links on main page
+2025-11-26 09:45:21,852 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:45:21,854 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 09:45:31,050 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-26 09:45:33,482 - INFO - Checking subpage: https://www.investor.bg/news/news/last/
+2025-11-26 09:45:36,283 - INFO - Checking subpage: https://www.investor.bg/trades/
+2025-11-26 09:45:39,039 - INFO - Checking subpage: https://www.investor.bg/indexes/
+2025-11-26 09:45:41,801 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:45:41,802 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:45:43,803 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-26 09:45:43,804 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 09:45:44,148 - WARNING - 403 Forbidden error for https://www.minfin.bg/bg/1394. Attempting Selenium fallback...
+2025-11-26 09:45:44,148 - INFO - Using Selenium to scrape: https://www.minfin.bg/bg/1394
+2025-11-26 09:45:44,148 - INFO - Initializing undetected Chrome driver...
+2025-11-26 09:45:44,149 - ERROR - Error scraping with Selenium https://www.minfin.bg/bg/1394: name 'options' is not defined
+2025-11-26 09:45:44,150 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-26 09:45:44,151 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 09:45:44,151 - INFO - ================================================================================
+2025-11-26 09:45:44,151 - INFO - Scraping completed. Found 0 documents.
+2025-11-26 09:45:44,152 - INFO - ================================================================================
+2025-11-26 09:46:51,734 - INFO - ================================================================================
+2025-11-26 09:46:51,734 - INFO - Document Scraper Started
+2025-11-26 09:46:51,734 - INFO - ================================================================================
+2025-11-26 09:46:51,735 - INFO - Loaded 3 URLs to scrape
+2025-11-26 09:46:51,735 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 09:46:51,735 - INFO - Processing URL 1/3: https://www.bnb.bg/
+2025-11-26 09:46:51,735 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 09:46:52,296 - INFO - Found 0 PDF links on main page
+2025-11-26 09:46:52,297 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:46:52,297 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 09:46:54,469 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 09:46:56,642 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 09:46:58,698 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 09:47:00,733 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 09:47:02,776 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:47:02,777 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:47:04,777 - INFO - Processing URL 2/3: https://www.investor.bg/
+2025-11-26 09:47:04,777 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 09:47:05,220 - INFO - Found 0 PDF links on main page
+2025-11-26 09:47:05,221 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:47:05,222 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 09:47:07,651 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-26 09:47:09,999 - INFO - Checking subpage: https://www.investor.bg/news/news/last/
+2025-11-26 09:47:12,778 - INFO - Checking subpage: https://www.investor.bg/trades/
+2025-11-26 09:47:15,535 - INFO - Checking subpage: https://www.investor.bg/indexes/
+2025-11-26 09:47:18,494 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:47:18,495 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:47:20,496 - INFO - Processing URL 3/3: https://www.minfin.bg/bg/1394
+2025-11-26 09:47:20,496 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 09:47:20,850 - WARNING - 403 Forbidden error for https://www.minfin.bg/bg/1394. Attempting Selenium fallback...
+2025-11-26 09:47:20,851 - INFO - Using Selenium to scrape: https://www.minfin.bg/bg/1394
+2025-11-26 09:47:20,851 - INFO - Initializing undetected Chrome driver...
+2025-11-26 09:47:24,397 - INFO - patching driver executable C:\Users\karno\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-26 09:47:34,522 - INFO - Found 0 PDF links with Selenium
+2025-11-26 09:47:34,523 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-26 09:47:34,524 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-26 09:47:34,525 - INFO - Saving 0 documents to extracted_documents.json
+2025-11-26 09:47:34,527 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 09:47:34,527 - INFO - ================================================================================
+2025-11-26 09:47:34,527 - INFO - Scraping completed. Found 0 documents.
+2025-11-26 09:47:34,527 - INFO - ================================================================================
+2025-11-26 09:47:34,750 - INFO - Selenium driver closed
+2025-11-26 09:53:03,716 - INFO - ================================================================================
+2025-11-26 09:53:03,717 - INFO - Document Scraper Started
+2025-11-26 09:53:03,717 - INFO - ================================================================================
+2025-11-26 09:53:03,717 - INFO - Loaded 4 URLs to scrape
+2025-11-26 09:53:03,718 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 09:53:03,718 - INFO - Processing URL 1/4: https://www.bnb.bg/
+2025-11-26 09:53:03,719 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 09:53:04,263 - INFO - Found 0 PDF links on main page
+2025-11-26 09:53:04,264 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:53:04,264 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 09:53:06,440 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 09:53:08,654 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 09:53:10,749 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 09:53:12,783 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 09:53:14,846 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:53:14,846 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:53:16,847 - INFO - Processing URL 2/4: https://www.investor.bg/
+2025-11-26 09:53:16,847 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 09:53:17,318 - INFO - Found 0 PDF links on main page
+2025-11-26 09:53:17,319 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 09:53:17,321 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 09:53:19,875 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-26 09:53:22,323 - INFO - Checking subpage: https://www.investor.bg/news/news/last/
+2025-11-26 09:53:25,165 - INFO - Checking subpage: https://www.investor.bg/trades/
+2025-11-26 09:53:27,935 - INFO - Checking subpage: https://www.investor.bg/indexes/
+2025-11-26 09:53:31,042 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 09:53:31,044 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:53:33,044 - INFO - Processing URL 3/4: https://bnb.bg/AboutUs/AULegalFramework/AUEULegalFramework/AUEULFRegulation/index.htm
+2025-11-26 09:53:33,045 - INFO - Scraping URL: https://bnb.bg/AboutUs/AULegalFramework/AUEULegalFramework/AUEULFRegulation/index.htm
+2025-11-26 09:53:33,604 - INFO - Found 2 PDF links on main page
+2025-11-26 09:53:33,605 - INFO - Processing PDF 1/2: https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_eulf_reg_909_2014_a1_en.pdf
+2025-11-26 09:53:34,040 - INFO - Downloaded PDF: au_eulf_reg_909_2014_a1_en.pdf
+2025-11-26 09:53:34,299 - INFO - Extracted 21267 characters from PDF
+2025-11-26 09:53:36,300 - INFO - Processing PDF 2/2: https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_eulf_reg_909_2014_a1_bg.pdf
+2025-11-26 09:53:36,635 - INFO - Downloaded PDF: au_eulf_reg_909_2014_a1_bg.pdf
+2025-11-26 09:53:36,919 - INFO - Extracted 20373 characters from PDF
+2025-11-26 09:53:36,919 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 09:53:38,921 - INFO - Processing URL 4/4: https://www.minfin.bg/bg/1394
+2025-11-26 09:53:38,921 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 09:53:39,297 - WARNING - 403 Forbidden error for https://www.minfin.bg/bg/1394. Attempting Selenium fallback...
+2025-11-26 09:53:39,297 - INFO - Using Selenium to scrape: https://www.minfin.bg/bg/1394
+2025-11-26 09:53:39,297 - INFO - Initializing undetected Chrome driver...
+2025-11-26 09:53:43,292 - INFO - patching driver executable C:\Users\karno\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-26 09:53:50,937 - INFO - Found 0 PDF links with Selenium
+2025-11-26 09:53:50,938 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-26 09:53:50,938 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-26 09:53:50,939 - INFO - Saving 2 documents to extracted_documents.json
+2025-11-26 09:53:50,941 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 09:53:50,941 - INFO - ================================================================================
+2025-11-26 09:53:50,942 - INFO - Scraping completed. Found 2 documents.
+2025-11-26 09:53:50,942 - INFO - ================================================================================
+2025-11-26 09:53:51,173 - INFO - Selenium driver closed
+2025-11-26 10:01:10,845 - INFO - ================================================================================
+2025-11-26 10:01:10,846 - INFO - Document Scraper Started
+2025-11-26 10:01:10,846 - INFO - ================================================================================
+2025-11-26 10:01:10,854 - INFO - Loaded 4 URLs to scrape
+2025-11-26 10:01:10,855 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 10:01:10,855 - INFO - Processing URL 1/4: https://www.bnb.bg/
+2025-11-26 10:01:10,855 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 10:01:11,358 - INFO - Found 0 PDF links on main page
+2025-11-26 10:01:11,359 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 10:01:11,359 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 10:01:13,535 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 10:01:15,731 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 10:01:17,809 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 10:01:19,863 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 10:01:21,915 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 10:01:21,915 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 10:01:23,916 - INFO - Processing URL 2/4: https://www.investor.bg/
+2025-11-26 10:01:23,916 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 10:01:24,353 - INFO - Found 0 PDF links on main page
+2025-11-26 10:01:24,353 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 10:01:24,356 - INFO - Checking subpage: https://www.ibg.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 10:01:27,399 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 10:01:29,872 - INFO - Checking subpage: https://www.dnes.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 10:01:32,360 - INFO - Checking subpage: https://www.bloombergtv.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 10:01:34,811 - INFO - Checking subpage: https://www.bgonair.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 10:01:37,248 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 10:01:37,249 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 10:01:39,250 - INFO - Processing URL 3/4: https://bnb.bg/AboutUs/AULegalFramework/AUEULegalFramework/AUEULFRegulation/index.htm
+2025-11-26 10:01:39,250 - INFO - Scraping URL: https://bnb.bg/AboutUs/AULegalFramework/AUEULegalFramework/AUEULFRegulation/index.htm
+2025-11-26 10:01:39,687 - INFO - Found 2 PDF links on main page
+2025-11-26 10:01:39,687 - INFO - Processing PDF 1/2: https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_eulf_reg_909_2014_a1_en.pdf
+2025-11-26 10:01:39,990 - INFO - Downloaded PDF: au_eulf_reg_909_2014_a1_en.pdf
+2025-11-26 10:01:40,229 - INFO - Extracted 21267 characters from PDF
+2025-11-26 10:01:42,231 - INFO - Processing PDF 2/2: https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_eulf_reg_909_2014_a1_bg.pdf
+2025-11-26 10:01:42,477 - INFO - Downloaded PDF: au_eulf_reg_909_2014_a1_bg.pdf
+2025-11-26 10:01:42,738 - INFO - Extracted 20373 characters from PDF
+2025-11-26 10:01:42,739 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 10:01:44,741 - INFO - Processing URL 4/4: https://www.minfin.bg/bg/1394
+2025-11-26 10:01:44,741 - INFO - Scraping URL: https://www.minfin.bg/bg/1394
+2025-11-26 10:01:45,093 - WARNING - 403 Forbidden error for https://www.minfin.bg/bg/1394. Attempting Selenium fallback...
+2025-11-26 10:01:45,094 - INFO - Using Selenium to scrape: https://www.minfin.bg/bg/1394
+2025-11-26 10:01:45,094 - INFO - Initializing undetected Chrome driver...
+2025-11-26 10:01:48,349 - INFO - patching driver executable C:\Users\karno\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-26 10:01:55,920 - INFO - Found 0 PDF links with Selenium
+2025-11-26 10:01:55,922 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-26 10:01:55,922 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-26 10:01:55,922 - INFO - Saving 2 documents to extracted_documents.json
+2025-11-26 10:01:55,923 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 10:01:55,923 - INFO - ================================================================================
+2025-11-26 10:01:55,923 - INFO - Scraping completed. Found 2 documents.
+2025-11-26 10:01:55,924 - INFO - ================================================================================
+2025-11-26 10:01:56,141 - INFO - Selenium driver closed
+2025-11-26 11:10:48,058 - INFO - ================================================================================
+2025-11-26 11:10:48,059 - INFO - Document Scraper Started
+2025-11-26 11:10:48,059 - INFO - ================================================================================
+2025-11-26 11:10:48,059 - INFO - Loaded 1 URLs to scrape
+2025-11-26 11:10:48,059 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 11:10:48,060 - INFO - Processing URL 1/1: https://aref.government.bg/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BD%D0%B8%D1%86%D0%B8
+2025-11-26 11:10:48,060 - INFO - Scraping URL: https://aref.government.bg/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BD%D0%B8%D1%86%D0%B8
+2025-11-26 11:10:48,482 - INFO - Found 13 PDF links on main page
+2025-11-26 11:10:48,482 - INFO - Processing PDF 1/3: https://aref.government.bg/sites/default/files/2023-03/%D0%97%D0%90%D0%9A%D0%9E%D0%9D%20%D0%97%D0%90%20%D0%9D%D0%9E%D0%A0%D0%9C%D0%90%D0%A2%D0%98%D0%92%D0%9D%D0%98%D0%A2%D0%95%20%D0%90%D0%9A%D0%A2%D0%9E%D0%92%D0%95.pdf
+2025-11-26 11:10:48,527 - INFO - Downloaded PDF: %D0%97%D0%90%D0%9A%D0%9E%D0%9D%20%D0%97%D0%90%20%D0%9D%D0%9E%D0%A0%D0%9C%D0%90%D0%A2%D0%98%D0%92%D0%9D%D0%98%D0%A2%D0%95%20%D0%90%D0%9A%D0%A2%D0%9E%D0%92%D0%95.pdf
+2025-11-26 11:10:48,726 - INFO - Extracted 24264 characters from PDF
+2025-11-26 11:10:50,728 - INFO - Processing PDF 2/3: https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf
+2025-11-26 11:10:50,754 - ERROR - Error processing PDF https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf: [Errno 2] No such file or directory: 'downloads\\%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf'
+2025-11-26 11:10:52,756 - INFO - Processing PDF 3/3: https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0%20%28%D0%97%D0%90%29.pdf
+2025-11-26 11:10:53,198 - INFO - Downloaded PDF: %D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0%20%28%D0%97%D0%90%29.pdf
+2025-11-26 11:10:53,515 - INFO - Extracted 80238 characters from PDF
+2025-11-26 11:10:53,516 - INFO - Saving 2 documents to extracted_documents.json
+2025-11-26 11:10:53,517 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 11:10:53,517 - INFO - ================================================================================
+2025-11-26 11:10:53,517 - INFO - Scraping completed. Found 2 documents.
+2025-11-26 11:10:53,517 - INFO - ================================================================================
+2025-11-26 11:13:08,071 - INFO - ================================================================================
+2025-11-26 11:13:08,072 - INFO - Document Scraper Started
+2025-11-26 11:13:08,072 - INFO - ================================================================================
+2025-11-26 11:13:08,072 - INFO - Loaded 1 URLs to scrape
+2025-11-26 11:13:08,072 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 11:13:08,553 - INFO - Found 13 PDF links on main page
+2025-11-26 11:13:08,554 - INFO - Processing PDF 1/3: https://aref.government.bg/sites/default/files/2023-03/%D0%97%D0%90%D0%9A%D0%9E%D0%9D%20%D0%97%D0%90%20%D0%9D%D0%9E%D0%A0%D0%9C%D0%90%D0%A2%D0%98%D0%92%D0%9D%D0%98%D0%A2%D0%95%20%D0%90%D0%9A%D0%A2%D0%9E%D0%92%D0%95.pdf
+2025-11-26 11:13:08,601 - INFO - Downloaded PDF: %D0%97%D0%90%D0%9A%D0%9E%D0%9D%20%D0%97%D0%90%20%D0%9D%D0%9E%D0%A0%D0%9C%D0%90%D0%A2%D0%98%D0%92%D0%9D%D0%98%D0%A2%D0%95%20%D0%90%D0%9A%D0%A2%D0%9E%D0%92%D0%95.pdf
+2025-11-26 11:13:08,789 - INFO - Extracted 24264 characters from PDF
+2025-11-26 11:13:10,790 - INFO - Processing PDF 2/3: https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf
+2025-11-26 11:13:10,803 - ERROR - Error processing PDF https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf: [Errno 2] No such file or directory: 'downloads\\%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf'
+2025-11-26 11:13:12,804 - INFO - Processing PDF 3/3: https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0%20%28%D0%97%D0%90%29.pdf
+2025-11-26 11:13:13,292 - INFO - Downloaded PDF: %D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0%20%28%D0%97%D0%90%29.pdf
+2025-11-26 11:13:13,581 - INFO - Extracted 80238 characters from PDF
+2025-11-26 11:13:13,582 - INFO - Saving 2 documents to extracted_documents.json
+2025-11-26 11:13:13,582 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 11:13:13,583 - INFO - ================================================================================
+2025-11-26 11:13:13,583 - INFO - Scraping completed. Found 2 documents.
+2025-11-26 11:13:13,583 - INFO - ================================================================================
+2025-11-26 11:17:21,018 - INFO - ================================================================================
+2025-11-26 11:17:21,018 - INFO - Document Scraper Started
+2025-11-26 11:17:21,018 - INFO - ================================================================================
+2025-11-26 11:17:21,018 - INFO - Loaded 1 URLs to scrape
+2025-11-26 11:17:21,018 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 11:17:21,549 - INFO - Found 13 PDF links on main page
+2025-11-26 11:17:21,549 - INFO - Processing PDF 1/3: https://aref.government.bg/sites/default/files/2023-03/%D0%97%D0%90%D0%9A%D0%9E%D0%9D%20%D0%97%D0%90%20%D0%9D%D0%9E%D0%A0%D0%9C%D0%90%D0%A2%D0%98%D0%92%D0%9D%D0%98%D0%A2%D0%95%20%D0%90%D0%9A%D0%A2%D0%9E%D0%92%D0%95.pdf
+2025-11-26 11:17:21,798 - INFO - Extracted 24264 characters from PDF
+2025-11-26 11:17:23,800 - INFO - Processing PDF 2/3: https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%28%D0%97%D0%90%D0%9D%D0%9D%29.pdf
+2025-11-26 11:17:24,398 - INFO - Extracted 118317 characters from PDF
+2025-11-26 11:17:26,399 - INFO - Processing PDF 3/3: https://aref.government.bg/sites/default/files/2024-04/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0%20%28%D0%97%D0%90%29.pdf
+2025-11-26 11:17:26,788 - INFO - Extracted 80238 characters from PDF
+2025-11-26 11:17:26,788 - INFO - Saving 3 documents to extracted_documents.json
+2025-11-26 11:17:26,789 - INFO - Successfully saved results to extracted_documents.json
+2025-11-26 11:17:26,790 - INFO - ================================================================================
+2025-11-26 11:17:26,790 - INFO - Scraping completed. Found 3 documents.
+2025-11-26 11:17:26,790 - INFO - ================================================================================
+2025-11-26 22:25:53,209 - INFO - ================================================================================
+2025-11-26 22:25:53,210 - INFO - Document Scraper Started
+2025-11-26 22:25:53,210 - INFO - ================================================================================
+2025-11-26 22:25:53,211 - INFO - Loaded 5 URLs to scrape
+2025-11-26 22:25:53,211 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-26 22:25:53,212 - INFO - Processing URL 1/5: https://www.bnb.bg/
+2025-11-26 22:25:53,212 - INFO - Scraping URL: https://www.bnb.bg/
+2025-11-26 22:25:53,768 - INFO - Found 0 PDF links on main page
+2025-11-26 22:25:53,769 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 22:25:53,770 - INFO - Checking subpage: https://www.bnb.bg/#main
+2025-11-26 22:25:55,937 - INFO - Checking subpage: https://www.bnb.bg/index.htm
+2025-11-26 22:25:58,166 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUCustomerService/AUCContacts/index.htm
+2025-11-26 22:26:00,241 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/AUSiteMap/index.htm
+2025-11-26 22:26:02,278 - INFO - Checking subpage: https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm
+2025-11-26 22:26:04,360 - INFO - Found 0 PDF links after crawling subpages
+2025-11-26 22:26:04,360 - INFO - Waiting 2.0 seconds before next URL...
+2025-11-26 22:26:06,362 - INFO - Processing URL 2/5: https://www.investor.bg/
+2025-11-26 22:26:06,363 - INFO - Scraping URL: https://www.investor.bg/
+2025-11-26 22:26:06,851 - INFO - Found 0 PDF links on main page
+2025-11-26 22:26:06,851 - INFO - No PDFs on main page, crawling subpages...
+2025-11-26 22:26:06,854 - INFO - Checking subpage: https://www.investor.bg/?utm_source=investor&utm_medium=link&utm_campaign=lenta
+2025-11-26 22:26:09,366 - INFO - Checking subpage: https://www.investor.bg/login?url=https://www.investor.bg/
+2025-11-27 11:39:10,757 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-27 11:39:10,848 - INFO - Initialized DocumentScraper (delay=1.5s, max_pdfs=5)
+2025-11-27 11:39:10,853 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,857 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,862 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,868 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,873 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,877 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,881 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,885 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,890 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:10,892 - INFO - Scraping URL: https://example.com
+2025-11-27 11:39:10,912 - INFO - Found 3 PDF links on main page
+2025-11-27 11:39:10,913 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:39:11,015 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:39:11,019 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,021 - INFO - Scraping URL: https://example.com
+2025-11-27 11:39:11,022 - ERROR - Error fetching URL https://example.com: Connection timeout
+2025-11-27 11:39:11,027 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,030 - INFO - Downloaded PDF: test.pdf
+2025-11-27 11:39:11,051 - INFO - Extracted 949 characters from PDF
+2025-11-27 11:39:11,055 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,058 - ERROR - Error processing PDF https://example.com/test.pdf: 404 Not Found
+2025-11-27 11:39:11,064 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,069 - INFO - Extracted 1199 characters from PDF
+2025-11-27 11:39:11,073 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,077 - ERROR - Error extracting text from PDF test.pdf: Invalid PDF
+2025-11-27 11:39:11,081 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,088 - INFO - Saving 2 documents to C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-11\test_save_results0\test_output.json
+2025-11-27 11:39:11,090 - INFO - Successfully saved results to C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-11\test_save_results0\test_output.json
+2025-11-27 11:39:11,121 - ERROR - URL file not found: nonexistent.txt
+2025-11-27 11:39:11,126 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,128 - INFO - Scraping URL: https://example.com
+2025-11-27 11:39:11,129 - WARNING - 403 Forbidden error for https://example.com. Attempting Selenium fallback...
+2025-11-27 11:39:11,133 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,135 - INFO - Scraping URL: https://example.com
+2025-11-27 11:39:11,136 - WARNING - 403 Forbidden error for https://example.com. Attempting Selenium fallback...
+2025-11-27 11:39:11,138 - ERROR - Selenium not available. Cannot use 403 fallback.
+2025-11-27 11:39:11,142 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:11,145 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:11,146 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:39:14,147 - INFO - Found 3 PDF links with Selenium
+2025-11-27 11:39:14,150 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:39:14,252 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:39:14,256 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:14,259 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:14,261 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:39:17,263 - INFO - Found 3 PDF links with Selenium
+2025-11-27 11:39:17,265 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:39:17,367 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:39:17,372 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:17,375 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:17,376 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:39:20,378 - INFO - Found 3 PDF links with Selenium
+2025-11-27 11:39:20,380 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:39:20,482 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:39:20,485 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:20,487 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:20,489 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:39:23,490 - INFO - Found 0 PDF links with Selenium
+2025-11-27 11:39:23,491 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-27 11:39:23,493 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-27 11:39:23,496 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:23,498 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:23,499 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:39:23,501 - ERROR - Error scraping with Selenium https://example.com: Chrome driver failed
+2025-11-27 11:39:23,504 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:23,507 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:26,509 - ERROR - Error scraping with Selenium https://example.com: 'Mock' object is not subscriptable
+2025-11-27 11:39:26,551 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:39:29,554 - ERROR - Error scraping with Selenium https://example.com: 'Mock' object is not subscriptable
+2025-11-27 11:39:29,559 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:29,695 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:39:29,707 - INFO - Extracted 11 characters from PDF
+2025-11-27 11:40:29,244 - INFO - Initialized DocumentScraper (delay=2.0s, max_pdfs=3)
+2025-11-27 11:40:29,252 - INFO - Initialized DocumentScraper (delay=1.5s, max_pdfs=5)
+2025-11-27 11:40:29,255 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,260 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,266 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,270 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,275 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,279 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,285 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,288 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,291 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,293 - INFO - Scraping URL: https://example.com
+2025-11-27 11:40:29,298 - INFO - Found 3 PDF links on main page
+2025-11-27 11:40:29,299 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:40:29,401 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:40:29,405 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,407 - INFO - Scraping URL: https://example.com
+2025-11-27 11:40:29,409 - ERROR - Error fetching URL https://example.com: Connection timeout
+2025-11-27 11:40:29,413 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,416 - INFO - Downloaded PDF: test.pdf
+2025-11-27 11:40:29,417 - INFO - Extracted 949 characters from PDF
+2025-11-27 11:40:29,423 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,426 - ERROR - Error processing PDF https://example.com/test.pdf: 404 Not Found
+2025-11-27 11:40:29,431 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,437 - INFO - Extracted 1199 characters from PDF
+2025-11-27 11:40:29,440 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,444 - ERROR - Error extracting text from PDF test.pdf: Invalid PDF
+2025-11-27 11:40:29,449 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,456 - INFO - Saving 2 documents to C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-12\test_save_results0\test_output.json
+2025-11-27 11:40:29,458 - INFO - Successfully saved results to C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-12\test_save_results0\test_output.json
+2025-11-27 11:40:29,470 - ERROR - URL file not found: nonexistent.txt
+2025-11-27 11:40:29,473 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,475 - INFO - Scraping URL: https://example.com
+2025-11-27 11:40:29,476 - WARNING - 403 Forbidden error for https://example.com. Attempting Selenium fallback...
+2025-11-27 11:40:29,479 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,482 - INFO - Scraping URL: https://example.com
+2025-11-27 11:40:29,483 - WARNING - 403 Forbidden error for https://example.com. Attempting Selenium fallback...
+2025-11-27 11:40:29,486 - ERROR - Selenium not available. Cannot use 403 fallback.
+2025-11-27 11:40:29,490 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:29,492 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:29,494 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:40:32,496 - INFO - Found 3 PDF links with Selenium
+2025-11-27 11:40:32,497 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:40:32,599 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:40:32,603 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:32,605 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:32,607 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:40:35,608 - INFO - Found 3 PDF links with Selenium
+2025-11-27 11:40:35,611 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:40:35,712 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:40:35,716 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:35,718 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:35,720 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:40:38,723 - INFO - Found 3 PDF links with Selenium
+2025-11-27 11:40:38,724 - INFO - Processing PDF 1/2: https://example.com/documents/report2024.pdf
+2025-11-27 11:40:38,827 - INFO - Processing PDF 2/2: https://example.com/docs/financial_statement.pdf
+2025-11-27 11:40:38,830 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:38,832 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:38,833 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:40:41,836 - INFO - Found 0 PDF links with Selenium
+2025-11-27 11:40:41,837 - INFO - No PDFs found, attempting to crawl subpages with Selenium...
+2025-11-27 11:40:41,838 - WARNING - Subpage crawling with Selenium not implemented
+2025-11-27 11:40:41,842 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:41,844 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:41,845 - INFO - Initializing undetected Chrome driver...
+2025-11-27 11:40:41,846 - ERROR - Error scraping with Selenium https://example.com: Chrome driver failed
+2025-11-27 11:40:41,849 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:41,851 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:44,853 - ERROR - Error scraping with Selenium https://example.com: 'Mock' object is not subscriptable
+2025-11-27 11:40:44,855 - INFO - Using Selenium to scrape: https://example.com
+2025-11-27 11:40:47,858 - ERROR - Error scraping with Selenium https://example.com: 'Mock' object is not subscriptable
+2025-11-27 11:40:47,863 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:47,868 - INFO - Initialized DocumentScraper (delay=0.1s, max_pdfs=2)
+2025-11-27 11:40:47,875 - INFO - Extracted 11 characters from PDF

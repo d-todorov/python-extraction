@@ -1,0 +1,49 @@
+2025-11-27 11:07:56,971 - INFO - ================================================================================
+2025-11-27 11:07:56,972 - INFO - LLM Data Extraction Started
+2025-11-27 11:07:56,972 - INFO - ================================================================================
+2025-11-27 11:07:56,973 - INFO - Found 3 document(s) to process
+2025-11-27 11:07:56,973 - INFO - Initialized LLMDataExtractor in MOCK mode
+2025-11-27 11:07:56,973 - INFO - Initialized TraditionalExtractor
+2025-11-27 11:07:56,974 - INFO - 
+Processing: financial_table.txt
+2025-11-27 11:07:56,974 - INFO - --------------------------------------------------------------------------------
+2025-11-27 11:07:56,974 - INFO - Extracting data from: financial_table.txt
+2025-11-27 11:07:56,975 - INFO - Using mock response for: financial_table.txt
+2025-11-27 11:07:56,994 - INFO - Successfully extracted and validated data from financial_table.txt
+2025-11-27 11:07:56,995 - INFO - LLM extraction completed for financial_table.txt
+2025-11-27 11:07:56,995 - INFO - Extracting data (traditional) from: financial_table.txt
+2025-11-27 11:07:56,998 - WARNING - Validation errors for financial_table.txt: ['Missing required field: document_date', 'Invalid date: None']
+2025-11-27 11:07:56,998 - INFO - Traditional extraction completed for financial_table.txt
+2025-11-27 11:07:56,999 - INFO - 
+Processing: invoice.txt
+2025-11-27 11:07:56,999 - INFO - --------------------------------------------------------------------------------
+2025-11-27 11:07:57,000 - INFO - Extracting data from: invoice.txt
+2025-11-27 11:07:57,000 - INFO - Using mock response for: invoice.txt
+2025-11-27 11:07:57,001 - INFO - Successfully extracted and validated data from invoice.txt
+2025-11-27 11:07:57,001 - INFO - LLM extraction completed for invoice.txt
+2025-11-27 11:07:57,001 - INFO - Extracting data (traditional) from: invoice.txt
+2025-11-27 11:07:57,003 - WARNING - Validation errors for invoice.txt: ['Missing required field: document_date', 'Invalid date: None']
+2025-11-27 11:07:57,003 - INFO - Traditional extraction completed for invoice.txt
+2025-11-27 11:07:57,003 - INFO - 
+Processing: report_excerpt.txt
+2025-11-27 11:07:57,004 - INFO - --------------------------------------------------------------------------------
+2025-11-27 11:07:57,004 - INFO - Extracting data from: report_excerpt.txt
+2025-11-27 11:07:57,005 - INFO - Using mock response for: report_excerpt.txt
+2025-11-27 11:07:57,005 - INFO - Successfully extracted and validated data from report_excerpt.txt
+2025-11-27 11:07:57,005 - INFO - LLM extraction completed for report_excerpt.txt
+2025-11-27 11:07:57,006 - INFO - Extracting data (traditional) from: report_excerpt.txt
+2025-11-27 11:07:57,006 - WARNING - Validation errors for report_excerpt.txt: ['Missing required field: document_date', 'Invalid date: None']
+2025-11-27 11:07:57,007 - INFO - Traditional extraction completed for report_excerpt.txt
+2025-11-27 11:07:57,008 - INFO - 
+Results saved to: extracted_data.json
+2025-11-27 11:07:57,008 - INFO - 
+================================================================================
+2025-11-27 11:07:57,009 - INFO - EXTRACTION SUMMARY
+2025-11-27 11:07:57,009 - INFO - ================================================================================
+2025-11-27 11:07:57,009 - INFO - Documents processed: 3
+2025-11-27 11:07:57,010 - INFO - LLM extractions valid: 3/3
+2025-11-27 11:07:57,010 - INFO - Traditional extractions valid: 0/3
+2025-11-27 11:07:57,010 - INFO - 
+================================================================================
+2025-11-27 11:07:57,010 - INFO - Extraction completed successfully
+2025-11-27 11:07:57,011 - INFO - ================================================================================

@@ -1,0 +1,578 @@
+[
+  {
+    "date": "2024-08-23",
+    "company_id": "COMP004",
+    "revenue_bgn": 803002.65,
+    "expenses_bgn": 575643.12,
+    "profit_bgn": 227359.53,
+    "original_currency": "EUR",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-07-17",
+    "company_id": "COMP002",
+    "revenue_bgn": 473724.63,
+    "expenses_bgn": 268698.83,
+    "profit_bgn": 205025.8,
+    "original_currency": "USD",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-02-14",
+    "company_id": "COMP002",
+    "revenue_bgn": 184123.15,
+    "expenses_bgn": 69603.0,
+    "profit_bgn": 114520.15,
+    "original_currency": "BGN",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-06-04",
+    "company_id": "COMP005",
+    "revenue_bgn": 363646.81,
+    "expenses_bgn": 585880.95,
+    "profit_bgn": -222234.14,
+    "original_currency": "GBP",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-07-03",
+    "company_id": "COMP004",
+    "revenue_bgn": 173008.89,
+    "expenses_bgn": 482606.93,
+    "profit_bgn": -309598.04,
+    "original_currency": "USD",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-07-26",
+    "company_id": "COMP003",
+    "revenue_bgn": 145464.52,
+    "expenses_bgn": 223861.92,
+    "profit_bgn": -78397.4,
+    "original_currency": "BGN",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-06-02",
+    "company_id": "COMP004",
+    "revenue_bgn": 468468.31,
+    "expenses_bgn": 13589.01,
+    "profit_bgn": 454879.3,
+    "original_currency": "BGN",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-05-28",
+    "company_id": "COMP005",
+    "revenue_bgn": 267280.18,
+    "expenses_bgn": 578296.86,
+    "profit_bgn": -311016.68,
+    "original_currency": "EUR",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-04-04",
+    "company_id": "COMP004",
+    "revenue_bgn": 226019.48,
+    "expenses_bgn": 202244.19,
+    "profit_bgn": 23775.29,
+    "original_currency": "EUR",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-01-06",
+    "company_id": "COMP003",
+    "revenue_bgn": 174549.98,
+    "expenses_bgn": 6002.53,
+    "profit_bgn": 168547.45,
+    "original_currency": "BGN",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-02-15",
+    "company_id": "COMP001",
+    "revenue_bgn": 444702.07,
+    "expenses_bgn": 126743.05,
+    "profit_bgn": 317959.02,
+    "original_currency": "EUR",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-03-03",
+    "company_id": "COMP005",
+    "revenue_bgn": 211145.36,
+    "expenses_bgn": 205571.47,
+    "profit_bgn": 5573.89,
+    "original_currency": "BGN",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-04-23",
+    "company_id": "COMP002",
+    "revenue_bgn": 563270.27,
+    "expenses_bgn": 469398.08,
+    "profit_bgn": 93872.19,
+    "original_currency": "USD",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-06-23",
+    "company_id": "COMP005",
+    "revenue_bgn": 647170.87,
+    "expenses_bgn": 47399.95,
+    "profit_bgn": 599770.92,
+    "original_currency": "EUR",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-05-21",
+    "company_id": "COMP004",
+    "revenue_bgn": 229671.81,
+    "expenses_bgn": 97817.8,
+    "profit_bgn": 131854.01,
+    "original_currency": "GBP",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-03-15",
+    "company_id": "COMP004",
+    "revenue_bgn": 879828.3,
+    "expenses_bgn": 171785.66,
+    "profit_bgn": 708042.64,
+    "original_currency": "USD",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-04-26",
+    "company_id": "COMP004",
+    "revenue_bgn": 159609.95,
+    "expenses_bgn": 92093.59,
+    "profit_bgn": 67516.36,
+    "original_currency": "GBP",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-10-19",
+    "company_id": "COMP005",
+    "revenue_bgn": 332617.1,
+    "expenses_bgn": 13451.66,
+    "profit_bgn": 319165.44,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-07-07",
+    "company_id": "COMP003",
+    "revenue_bgn": 50587.01,
+    "expenses_bgn": 459500.69,
+    "profit_bgn": -408913.68,
+    "original_currency": "EUR",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-05-20",
+    "company_id": "COMP005",
+    "revenue_bgn": 391708.31,
+    "expenses_bgn": 190096.34,
+    "profit_bgn": 201611.97,
+    "original_currency": "EUR",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-05-30",
+    "company_id": "COMP001",
+    "revenue_bgn": 248327.02,
+    "expenses_bgn": 67763.26,
+    "profit_bgn": 180563.76,
+    "original_currency": "EUR",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-09-25",
+    "company_id": "COMP003",
+    "revenue_bgn": 63505.66,
+    "expenses_bgn": 27211.27,
+    "profit_bgn": 36294.39,
+    "original_currency": "USD",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-03-04",
+    "company_id": "COMP004",
+    "revenue_bgn": 646393.26,
+    "expenses_bgn": 307600.21,
+    "profit_bgn": 338793.05,
+    "original_currency": "GBP",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-08-12",
+    "company_id": "COMP005",
+    "revenue_bgn": 448116.27,
+    "expenses_bgn": 383377.52,
+    "profit_bgn": 64738.75,
+    "original_currency": "GBP",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-08-27",
+    "company_id": "COMP001",
+    "revenue_bgn": 210096.9,
+    "expenses_bgn": 466861.22,
+    "profit_bgn": -256764.32,
+    "original_currency": "GBP",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-04-09",
+    "company_id": "COMP005",
+    "revenue_bgn": 476766.26,
+    "expenses_bgn": 256324.21,
+    "profit_bgn": 220442.05,
+    "original_currency": "BGN",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-07-25",
+    "company_id": "COMP005",
+    "revenue_bgn": 510679.39,
+    "expenses_bgn": 69609.54,
+    "profit_bgn": 441069.85,
+    "original_currency": "EUR",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-01-12",
+    "company_id": "COMP005",
+    "revenue_bgn": 433647.26,
+    "expenses_bgn": 92605.88,
+    "profit_bgn": 341041.38,
+    "original_currency": "BGN",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-01-08",
+    "company_id": "COMP004",
+    "revenue_bgn": 324974.73,
+    "expenses_bgn": 259326.63,
+    "profit_bgn": 65648.1,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-05-21",
+    "company_id": "COMP001",
+    "revenue_bgn": 335968.13,
+    "expenses_bgn": 212979.29,
+    "profit_bgn": 122988.84,
+    "original_currency": "GBP",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-10-21",
+    "company_id": "COMP004",
+    "revenue_bgn": 570120.09,
+    "expenses_bgn": 40521.58,
+    "profit_bgn": 529598.51,
+    "original_currency": "GBP",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-06-27",
+    "company_id": "COMP005",
+    "revenue_bgn": 926329.21,
+    "expenses_bgn": 267025.1,
+    "profit_bgn": 659304.11,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-01-18",
+    "company_id": "COMP002",
+    "revenue_bgn": 55132.3,
+    "expenses_bgn": 53234.86,
+    "profit_bgn": 1897.44,
+    "original_currency": "BGN",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-02-08",
+    "company_id": "COMP002",
+    "revenue_bgn": 756332.94,
+    "expenses_bgn": 524355.61,
+    "profit_bgn": 231977.33,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-06-19",
+    "company_id": "COMP004",
+    "revenue_bgn": 539955.8,
+    "expenses_bgn": 455516.38,
+    "profit_bgn": 84439.42,
+    "original_currency": "GBP",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-05-06",
+    "company_id": "COMP002",
+    "revenue_bgn": 747773.39,
+    "expenses_bgn": 485034.5,
+    "profit_bgn": 262738.89,
+    "original_currency": "USD",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-03-11",
+    "company_id": "COMP002",
+    "revenue_bgn": 613370.23,
+    "expenses_bgn": 506863.08,
+    "profit_bgn": 106507.15,
+    "original_currency": "USD",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-07-08",
+    "company_id": "COMP001",
+    "revenue_bgn": 803225.21,
+    "expenses_bgn": 461090.75,
+    "profit_bgn": 342134.46,
+    "original_currency": "USD",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-03-10",
+    "company_id": "COMP002",
+    "revenue_bgn": 329230.49,
+    "expenses_bgn": 298891.55,
+    "profit_bgn": 30338.94,
+    "original_currency": "BGN",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-06-22",
+    "company_id": "COMP004",
+    "revenue_bgn": 614733.69,
+    "expenses_bgn": 16644.57,
+    "profit_bgn": 598089.12,
+    "original_currency": "EUR",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-08-26",
+    "company_id": "COMP001",
+    "revenue_bgn": 215933.56,
+    "expenses_bgn": 483328.64,
+    "profit_bgn": -267395.08,
+    "original_currency": "USD",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-01-02",
+    "company_id": "COMP005",
+    "revenue_bgn": 39211.39,
+    "expenses_bgn": 47463.08,
+    "profit_bgn": -8251.69,
+    "original_currency": "BGN",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-01-26",
+    "company_id": "COMP001",
+    "revenue_bgn": 73266.7,
+    "expenses_bgn": 62388.96,
+    "profit_bgn": 10877.74,
+    "original_currency": "BGN",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-03-21",
+    "company_id": "COMP003",
+    "revenue_bgn": 998103.15,
+    "expenses_bgn": 533192.65,
+    "profit_bgn": 464910.5,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-02-28",
+    "company_id": "COMP005",
+    "revenue_bgn": 180427.3,
+    "expenses_bgn": 26569.12,
+    "profit_bgn": 153858.18,
+    "original_currency": "BGN",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-03-30",
+    "company_id": "COMP002",
+    "revenue_bgn": 185382.59,
+    "expenses_bgn": 281337.64,
+    "profit_bgn": -95955.05,
+    "original_currency": "BGN",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-06-11",
+    "company_id": "COMP002",
+    "revenue_bgn": 675826.62,
+    "expenses_bgn": 331732.21,
+    "profit_bgn": 344094.41,
+    "original_currency": "EUR",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-05-23",
+    "company_id": "COMP003",
+    "revenue_bgn": 480101.13,
+    "expenses_bgn": 36020.64,
+    "profit_bgn": 444080.49,
+    "original_currency": "GBP",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-02-13",
+    "company_id": "COMP004",
+    "revenue_bgn": 568023.07,
+    "expenses_bgn": 395079.89,
+    "profit_bgn": 172943.18,
+    "original_currency": "EUR",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-06-03",
+    "company_id": "COMP005",
+    "revenue_bgn": 544552.56,
+    "expenses_bgn": 367615.21,
+    "profit_bgn": 176937.35,
+    "original_currency": "EUR",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-03-03",
+    "company_id": "COMP002",
+    "revenue_bgn": 253334.44,
+    "expenses_bgn": 258795.68,
+    "profit_bgn": -5461.24,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-08-24",
+    "company_id": "COMP001",
+    "revenue_bgn": 49154.92,
+    "expenses_bgn": 58346.72,
+    "profit_bgn": -9191.8,
+    "original_currency": "BGN",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-01-10",
+    "company_id": "COMP003",
+    "revenue_bgn": 530730.57,
+    "expenses_bgn": 295423.64,
+    "profit_bgn": 235306.93,
+    "original_currency": "GBP",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-08-02",
+    "company_id": "COMP003",
+    "revenue_bgn": 495073.53,
+    "expenses_bgn": 150361.06,
+    "profit_bgn": 344712.47,
+    "original_currency": "BGN",
+    "category": "Operations"
+  },
+  {
+    "date": "2024-03-31",
+    "company_id": "COMP001",
+    "revenue_bgn": 856873.46,
+    "expenses_bgn": 261497.81,
+    "profit_bgn": 595375.65,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-03-09",
+    "company_id": "COMP001",
+    "revenue_bgn": 83515.24,
+    "expenses_bgn": 110694.29,
+    "profit_bgn": -27179.05,
+    "original_currency": "BGN",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-10-12",
+    "company_id": "COMP005",
+    "revenue_bgn": 934467.18,
+    "expenses_bgn": 565008.63,
+    "profit_bgn": 369458.55,
+    "original_currency": "EUR",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-09-19",
+    "company_id": "COMP001",
+    "revenue_bgn": 548143.51,
+    "expenses_bgn": 76067.57,
+    "profit_bgn": 472075.94,
+    "original_currency": "USD",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-04-13",
+    "company_id": "COMP004",
+    "revenue_bgn": 725029.41,
+    "expenses_bgn": 144719.2,
+    "profit_bgn": 580310.21,
+    "original_currency": "GBP",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-06-17",
+    "company_id": "COMP004",
+    "revenue_bgn": 112122.11,
+    "expenses_bgn": 126846.24,
+    "profit_bgn": -14724.13,
+    "original_currency": "BGN",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-04-11",
+    "company_id": "COMP001",
+    "revenue_bgn": 98675.36,
+    "expenses_bgn": 64757.44,
+    "profit_bgn": 33917.92,
+    "original_currency": "BGN",
+    "category": "Marketing"
+  },
+  {
+    "date": "2024-06-10",
+    "company_id": "COMP003",
+    "revenue_bgn": 851647.54,
+    "expenses_bgn": 196032.6,
+    "profit_bgn": 655614.94,
+    "original_currency": "USD",
+    "category": "R&D"
+  },
+  {
+    "date": "2024-10-06",
+    "company_id": "COMP005",
+    "revenue_bgn": 388413.04,
+    "expenses_bgn": 114326.87,
+    "profit_bgn": 274086.17,
+    "original_currency": "BGN",
+    "category": "Sales"
+  },
+  {
+    "date": "2024-07-14",
+    "company_id": "COMP001",
+    "revenue_bgn": 89216.71,
+    "expenses_bgn": 18596.74,
+    "profit_bgn": 70619.97,
+    "original_currency": "USD",
+    "category": "Sales"
+  }
+]

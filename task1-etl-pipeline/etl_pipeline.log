@@ -1,0 +1,111 @@
+2025-11-25 16:20:40,476 - INFO - ================================================================================
+2025-11-25 16:20:40,476 - INFO - ETL Pipeline Started
+2025-11-25 16:20:40,476 - INFO - ================================================================================
+2025-11-25 16:20:40,476 - INFO - Starting data extraction from dirty_financial_data.csv
+2025-11-25 16:20:40,480 - INFO - Successfully loaded 103 records
+2025-11-25 16:20:40,480 - INFO - Starting data transformation
+2025-11-25 16:20:40,480 - INFO - Cleaning date fields
+2025-11-25 16:20:40,486 - INFO - Cleaning numeric fields
+2025-11-25 16:20:40,489 - INFO - Cleaning category field
+2025-11-25 16:20:40,490 - INFO - Removing invalid records
+2025-11-25 16:20:40,495 - INFO - Removed 37 invalid records
+2025-11-25 16:20:40,496 - INFO - Removing duplicate records
+2025-11-25 16:20:40,497 - INFO - Removed 2 duplicate records
+2025-11-25 16:20:40,498 - INFO - Converting currencies to BGN
+2025-11-25 16:20:40,501 - INFO - Currency conversion completed
+2025-11-25 16:20:40,501 - INFO - Calculating profit
+2025-11-25 16:20:40,502 - INFO - Data transformation completed
+2025-11-25 16:20:40,503 - INFO - Saving cleaned data to output_clean_data.json
+2025-11-25 16:20:40,506 - INFO - Successfully saved 64 records to JSON
+2025-11-25 16:20:40,507 - INFO - Generating data quality report to data_quality_report.txt
+2025-11-25 16:20:40,508 - INFO - Data quality report generated successfully
+2025-11-25 16:20:40,508 - INFO - ================================================================================
+2025-11-25 16:20:40,508 - INFO - ETL Pipeline Completed Successfully
+2025-11-25 16:20:40,509 - INFO - ================================================================================
+2025-11-27 09:10:16,773 - INFO - ================================================================================
+2025-11-27 09:10:16,773 - INFO - ETL Pipeline Started
+2025-11-27 09:10:16,773 - INFO - ================================================================================
+2025-11-27 09:10:16,774 - INFO - Starting data extraction from dirty_financial_data.csv
+2025-11-27 09:10:16,785 - INFO - Successfully loaded 103 records
+2025-11-27 09:10:16,786 - INFO - Column validation passed
+2025-11-27 09:10:16,786 - INFO - Starting data transformation
+2025-11-27 09:10:16,786 - INFO - Cleaning date fields
+2025-11-27 09:10:16,798 - INFO - Cleaning numeric fields
+2025-11-27 09:10:16,800 - INFO - Cleaning category field
+2025-11-27 09:10:16,802 - INFO - Removing invalid records
+2025-11-27 09:10:16,818 - INFO - Removed 37 invalid records
+2025-11-27 09:10:16,818 - INFO - Removing duplicate records
+2025-11-27 09:10:16,828 - INFO - Removed 2 duplicate records
+2025-11-27 09:10:16,829 - INFO - Converting currencies to BGN
+2025-11-27 09:10:16,832 - INFO - Currency conversion completed
+2025-11-27 09:10:16,833 - INFO - Calculating profit
+2025-11-27 09:10:16,834 - INFO - Data transformation completed
+2025-11-27 09:10:16,835 - INFO - Saving cleaned data to output_clean_data.json
+2025-11-27 09:10:16,841 - INFO - Successfully saved 64 records to JSON
+2025-11-27 09:10:16,841 - INFO - Generating data quality report to data_quality_report.txt
+2025-11-27 09:10:16,842 - INFO - Data quality report generated successfully
+2025-11-27 09:10:16,843 - INFO - ================================================================================
+2025-11-27 09:10:16,843 - INFO - ETL Pipeline Completed Successfully
+2025-11-27 09:10:16,843 - INFO - ================================================================================
+2025-11-27 11:42:32,213 - INFO - Starting data extraction from C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_extract_data_success0\test.csv
+2025-11-27 11:42:32,233 - INFO - Successfully loaded 1 records
+2025-11-27 11:42:32,234 - INFO - Column validation passed
+2025-11-27 11:42:32,242 - INFO - Starting data extraction from nonexistent.csv
+2025-11-27 11:42:32,244 - ERROR - File not found: nonexistent.csv
+2025-11-27 11:42:32,271 - INFO - Starting data extraction from C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_extract_data_missing_requ0\test_missing_cols.csv
+2025-11-27 11:42:32,282 - INFO - Successfully loaded 1 records
+2025-11-27 11:42:32,284 - ERROR - Missing required columns: revenue, expenses
+2025-11-27 11:42:32,286 - ERROR - Available columns: date, company_id, currency, category
+2025-11-27 11:42:32,291 - INFO - Starting data extraction from C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_extract_data_missing_sing0\test_missing_currency.csv
+2025-11-27 11:42:32,302 - INFO - Successfully loaded 1 records
+2025-11-27 11:42:32,304 - ERROR - Missing required columns: currency
+2025-11-27 11:42:32,305 - ERROR - Available columns: date, company_id, revenue, expenses, category
+2025-11-27 11:42:32,310 - INFO - Starting data extraction from C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_extract_data_all_required0\test_all_cols.csv
+2025-11-27 11:42:32,315 - INFO - Successfully loaded 1 records
+2025-11-27 11:42:32,316 - INFO - Column validation passed
+2025-11-27 11:42:32,322 - INFO - Starting data extraction from C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_extract_data_extra_column0\test_extra_cols.csv
+2025-11-27 11:42:32,336 - INFO - Successfully loaded 1 records
+2025-11-27 11:42:32,337 - INFO - Column validation passed
+2025-11-27 11:42:32,342 - INFO - Cleaning date fields
+2025-11-27 11:42:32,350 - INFO - Cleaning date fields
+2025-11-27 11:42:32,358 - INFO - Cleaning date fields
+2025-11-27 11:42:32,373 - INFO - Cleaning numeric fields
+2025-11-27 11:42:32,379 - INFO - Cleaning category field
+2025-11-27 11:42:32,383 - INFO - Cleaning category field
+2025-11-27 11:42:32,387 - INFO - Cleaning date fields
+2025-11-27 11:42:32,389 - INFO - Cleaning numeric fields
+2025-11-27 11:42:32,391 - INFO - Removing invalid records
+2025-11-27 11:42:32,397 - INFO - Removed 1 invalid records
+2025-11-27 11:42:32,404 - INFO - Removing invalid records
+2025-11-27 11:42:32,406 - INFO - Removed 1 invalid records
+2025-11-27 11:42:32,411 - INFO - Removing duplicate records
+2025-11-27 11:42:32,420 - INFO - Removed 1 duplicate records
+2025-11-27 11:42:32,425 - INFO - Removing duplicate records
+2025-11-27 11:42:32,428 - INFO - Removed 0 duplicate records
+2025-11-27 11:42:32,431 - INFO - Converting currencies to BGN
+2025-11-27 11:42:32,435 - INFO - Currency conversion completed
+2025-11-27 11:42:32,440 - INFO - Converting currencies to BGN
+2025-11-27 11:42:32,445 - INFO - Currency conversion completed
+2025-11-27 11:42:32,449 - INFO - Converting currencies to BGN
+2025-11-27 11:42:32,451 - INFO - Currency conversion completed
+2025-11-27 11:42:32,456 - INFO - Converting currencies to BGN
+2025-11-27 11:42:32,459 - INFO - Currency conversion completed
+2025-11-27 11:42:32,463 - INFO - Calculating profit
+2025-11-27 11:42:32,468 - INFO - Calculating profit
+2025-11-27 11:42:32,474 - INFO - Saving cleaned data to C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_save_to_json0\output.json
+2025-11-27 11:42:32,479 - INFO - Successfully saved 1 records to JSON
+2025-11-27 11:42:32,496 - INFO - Generating data quality report to C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_generate_quality_report0\report.txt
+2025-11-27 11:42:32,499 - INFO - Data quality report generated successfully
+2025-11-27 11:42:32,519 - INFO - Starting data extraction from C:\Users\karno\AppData\Local\Temp\pytest-of-karno\pytest-13\test_full_pipeline0\test_data.csv
+2025-11-27 11:42:32,534 - INFO - Successfully loaded 5 records
+2025-11-27 11:42:32,536 - INFO - Column validation passed
+2025-11-27 11:42:32,538 - INFO - Cleaning date fields
+2025-11-27 11:42:32,541 - INFO - Cleaning numeric fields
+2025-11-27 11:42:32,545 - INFO - Cleaning category field
+2025-11-27 11:42:32,546 - INFO - Removing invalid records
+2025-11-27 11:42:32,550 - INFO - Removed 3 invalid records
+2025-11-27 11:42:32,551 - INFO - Removing duplicate records
+2025-11-27 11:42:32,557 - INFO - Removed 0 duplicate records
+2025-11-27 11:42:32,559 - INFO - Converting currencies to BGN
+2025-11-27 11:42:32,563 - INFO - Currency conversion completed
+2025-11-27 11:42:32,565 - INFO - Calculating profit

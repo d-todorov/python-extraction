@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Dashboard</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 Financial Dashboard</h1>
+            <button id="refreshBtn" class="refresh-btn">🔄 Refresh</button>
+        </header>
+
+        <!-- Current Rates Section -->
+        <section class="rates-section">
+            <h2>Current Exchange Rates (BGN Base)</h2>
+            <div id="currentRates" class="rates-grid">
+                <div class="loading">Loading rates...</div>
+            </div>
+        </section>
+
+        <!-- Rate History Chart -->
+        <section class="chart-section">
+            <h2>7-Day Rate History</h2>
+            <canvas id="rateChart"></canvas>
+        </section>
+
+        <!-- News Section -->
+        <section class="news-section">
+            <h2>Recent Financial News</h2>
+            <div id="newsList" class="news-list">
+                <div class="loading">Loading news...</div>
+            </div>
+        </section>
+
+        <!-- Health Status -->
+        <footer>
+            <div id="healthStatus" class="health-status">
+                <span class="status-indicator">●</span>
+                <span id="statusText">Checking status...</span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="/static/js/dashboard.js"></script>
+</body>
+</html>
