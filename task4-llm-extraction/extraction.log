@@ -47,3 +47,49 @@ Results saved to: extracted_data.json
 ================================================================================
 2025-11-27 11:07:57,010 - INFO - Extraction completed successfully
 2025-11-27 11:07:57,011 - INFO - ================================================================================
+2025-11-28 08:05:06,665 - INFO - ================================================================================
+2025-11-28 08:05:06,666 - INFO - LLM Data Extraction Started
+2025-11-28 08:05:06,666 - INFO - ================================================================================
+2025-11-28 08:05:06,666 - INFO - Found 3 document(s) to process
+2025-11-28 08:05:06,666 - INFO - Initialized LLMDataExtractor in MOCK mode
+2025-11-28 08:05:06,667 - INFO - Initialized TraditionalExtractor
+2025-11-28 08:05:06,667 - INFO - 
+Processing: financial_table.txt
+2025-11-28 08:05:06,667 - INFO - --------------------------------------------------------------------------------
+2025-11-28 08:05:06,667 - INFO - Extracting data from: financial_table.txt
+2025-11-28 08:05:06,667 - INFO - Using mock response for: financial_table.txt
+2025-11-28 08:05:06,673 - INFO - Successfully extracted and validated data from financial_table.txt
+2025-11-28 08:05:06,674 - INFO - LLM extraction completed for financial_table.txt
+2025-11-28 08:05:06,674 - INFO - Extracting data (traditional) from: financial_table.txt
+2025-11-28 08:05:06,676 - INFO - Traditional extraction completed for financial_table.txt
+2025-11-28 08:05:06,676 - INFO - 
+Processing: invoice.txt
+2025-11-28 08:05:06,676 - INFO - --------------------------------------------------------------------------------
+2025-11-28 08:05:06,677 - INFO - Extracting data from: invoice.txt
+2025-11-28 08:05:06,677 - INFO - Using mock response for: invoice.txt
+2025-11-28 08:05:06,677 - INFO - Successfully extracted and validated data from invoice.txt
+2025-11-28 08:05:06,678 - INFO - LLM extraction completed for invoice.txt
+2025-11-28 08:05:06,678 - INFO - Extracting data (traditional) from: invoice.txt
+2025-11-28 08:05:06,679 - INFO - Traditional extraction completed for invoice.txt
+2025-11-28 08:05:06,679 - INFO - 
+Processing: report_excerpt.txt
+2025-11-28 08:05:06,679 - INFO - --------------------------------------------------------------------------------
+2025-11-28 08:05:06,680 - INFO - Extracting data from: report_excerpt.txt
+2025-11-28 08:05:06,680 - INFO - Using mock response for: report_excerpt.txt
+2025-11-28 08:05:06,680 - INFO - Successfully extracted and validated data from report_excerpt.txt
+2025-11-28 08:05:06,680 - INFO - LLM extraction completed for report_excerpt.txt
+2025-11-28 08:05:06,680 - INFO - Extracting data (traditional) from: report_excerpt.txt
+2025-11-28 08:05:06,681 - INFO - Traditional extraction completed for report_excerpt.txt
+2025-11-28 08:05:06,682 - INFO - 
+Results saved to: extracted_data.json
+2025-11-28 08:05:06,683 - INFO - 
+================================================================================
+2025-11-28 08:05:06,683 - INFO - EXTRACTION SUMMARY
+2025-11-28 08:05:06,683 - INFO - ================================================================================
+2025-11-28 08:05:06,684 - INFO - Documents processed: 3
+2025-11-28 08:05:06,684 - INFO - LLM extractions valid: 3/3
+2025-11-28 08:05:06,684 - INFO - Traditional extractions valid: 3/3
+2025-11-28 08:05:06,684 - INFO - 
+================================================================================
+2025-11-28 08:05:06,685 - INFO - Extraction completed successfully
+2025-11-28 08:05:06,685 - INFO - ================================================================================

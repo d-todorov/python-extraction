@@ -35,7 +35,7 @@
         "is_valid": true,
         "errors": []
       },
-      "extracted_at": "2025-11-27T11:07:56.994499"
+      "extracted_at": "2025-11-28T08:05:06.673440"
     },
     {
       "source_document": "invoice.txt",
@@ -75,7 +75,7 @@
         "is_valid": true,
         "errors": []
       },
-      "extracted_at": "2025-11-27T11:07:57.001495"
+      "extracted_at": "2025-11-28T08:05:06.677748"
     },
     {
       "source_document": "report_excerpt.txt",
@@ -106,7 +106,7 @@
         "is_valid": true,
         "errors": []
       },
-      "extracted_at": "2025-11-27T11:07:57.005129"
+      "extracted_at": "2025-11-28T08:05:06.680740"
     }
   ],
   "traditional_extractions": [
@@ -116,7 +116,7 @@
       "model": "regex",
       "extracted_data": {
         "company_name": "Company: BusinessGroup JSC",
-        "document_date": null,
+        "document_date": "2024-05-04",
         "total_amount": 2024.0,
         "currency": "EUR",
         "category": "income",
@@ -124,11 +124,8 @@
         "additional_metrics": {}
       },
       "validation": {
-        "is_valid": false,
-        "errors": [
-          "Missing required field: document_date",
-          "Invalid date: None"
-        ]
+        "is_valid": true,
+        "errors": []
       }
     },
     {
@@ -137,7 +134,7 @@
       "model": "regex",
       "extracted_data": {
         "company_name": "Company: TechnoSoft Ltd",
-        "document_date": null,
+        "document_date": "2024-03-15",
         "total_amount": 4930.5,
         "currency": "EUR",
         "category": "expense",
@@ -145,11 +142,8 @@
         "additional_metrics": {}
       },
       "validation": {
-        "is_valid": false,
-        "errors": [
-          "Missing required field: document_date",
-          "Invalid date: None"
-        ]
+        "is_valid": true,
+        "errors": []
       }
     },
     {
@@ -158,7 +152,7 @@
       "model": "regex",
       "extracted_data": {
         "company_name": "Company: InvestCapital LLC",
-        "document_date": null,
+        "document_date": "2024-02-28",
         "total_amount": 2024.0,
         "currency": "EUR",
         "category": "income",
@@ -166,11 +160,8 @@
         "additional_metrics": {}
       },
       "validation": {
-        "is_valid": false,
-        "errors": [
-          "Missing required field: document_date",
-          "Invalid date: None"
-        ]
+        "is_valid": true,
+        "errors": []
       }
     }
   ]

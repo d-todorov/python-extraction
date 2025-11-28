@@ -32,6 +32,11 @@ class TestNormalizer:
         """Test US date format."""
         assert normalize_date('January 15, 2024') == '2024-01-15'
         assert normalize_date('01/15/2024') == '2024-01-15'
+
+    def test_normalize_date_eu_format(self):
+        """Test EU date format."""
+        assert normalize_date('15.01.2024') == '2024-01-15'
+        assert normalize_date('1.1.2024') == '2024-01-01'
     
     def test_normalize_date_with_ordinals(self):
         """Test dates with ordinal suffixes."""

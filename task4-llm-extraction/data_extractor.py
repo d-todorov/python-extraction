@@ -142,6 +142,12 @@ class TraditionalExtractor:
         match = re.search(pattern4, text)
         if match:
             return match.group(0)
+
+        # Pattern 5: DD.MM.YYYY or MM.DD.YYYY
+        pattern5 = r'\b\d{1,2}\.\d{1,2}\.\d{4}\b'
+        match = re.search(pattern5, text)
+        if match:
+            return match.group(0)
         
         return None
     
